@@ -1,0 +1,42 @@
+export const data = [
+  {
+    id: "1",
+    name: "Rajesh",
+    standard: "10",
+    batch :"A",
+    subject: "Science",
+    address: "Chennai",
+    email: "rajesh@gmail.com",
+    contact: 9876542340,
+  },
+  {
+    id: "2",
+    name: "Mohan",
+    standard: "11",
+    batch :"A",
+    subject: "History",
+    address: "Coimbatore",
+    email: "mohan@gmail.com",
+    contact: 8765432109,
+  },
+  {
+    id: "3",
+    name: "Priya",
+    standard: "12",
+    batch :"B",
+    subject: "Mathematics",
+    address: "Madurai",
+    email: "priya@gmail.com",
+    contact: 7654321098,
+  },
+  {
+    id: "4",
+    name: "Manisha Singh",
+    standard: "10",
+    batch :"B",
+    subject: "Social Studies",
+    address: "Kolkata",
+    email: "manisha.singh@gmail.com",
+    contact: 8975543210,
+  }
+]
